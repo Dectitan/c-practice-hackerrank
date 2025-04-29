@@ -15,12 +15,13 @@ Some problems include additional notes, optimizations, or alternative approaches
 
 | Topic                  | Problems Solved |
 |------------------------|-----------------|
-| Basics                 | 0               |
-| Conditionals & Loops   | 0               |
+| Basics                 | 3               |
+| Conditionals & Loops   | 3               |
 | Arrays                 | 0               |
 | Strings                | 0               |
 | Functions              | 0               |
-| **Total**              | 0 ✅             |
+| Pointers               | 1               |
+| **Total**              | 7 ✅             |
 
 Feel free to ⭐ the repo if you're also solving in C or fork it to follow along!
 
