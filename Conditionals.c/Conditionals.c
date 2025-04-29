@@ -21,6 +21,10 @@ int main(){
     else{
         printf("Invalid Input");
     }
+    double x;
+    int *r;
+    r=&x;
+    printf("%p",r);
     return 0;
 }
 /*
